@@ -143,7 +143,7 @@ ExteranlLogin/
 
 **Ahmed Saleh**  
 Junior .NET Backend Developer  
-📧 [GitHub](https://github.com/ahmedsaleh374) | [LinkedIn](www.linkedin.com/in/ahmedsaleh8090)
+📧 [GitHub](https://github.com/ahmedsaleh374) | [LinkedIn](https://www.linkedin.com/in/ahmedsaleh8090)
 
 ---
 
